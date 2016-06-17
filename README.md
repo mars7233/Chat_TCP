@@ -1,2 +1,3 @@
 # Chat_TCP
-a simple chat app with AsyncSocket
+a simple instant chat app with POd'AsyncSocket'
+
